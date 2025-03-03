@@ -1,1 +1,6 @@
-
+mensaje = "Hello world"
+valor1 = 17
+valor2 = 52
+resultado = valor1 +valor2
+print(mensaje)
+print(resultado)
